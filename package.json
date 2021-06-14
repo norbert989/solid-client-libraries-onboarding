@@ -1,7 +1,7 @@
 {
   "name": "vuepress-inrupt-onboarding",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick onboarding guide to get started with using inrupt client libraries",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
