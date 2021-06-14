@@ -7,5 +7,5 @@ module.exports = {
       { text: 'Guide', link: '/guides/' },
     ],
   },
-  dest: 'dist',
+  dest: 'public',
 }
