@@ -6,6 +6,5 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guides/' },
     ],
-  },
-  dest: 'dist',
+  }
 }
